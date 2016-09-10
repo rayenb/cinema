@@ -1,0 +1,137 @@
+
+.fondo {
+	background-image: url("../img/banner.jpg");
+	max-width: 100%;
+	background-size: 100%;
+	padding-bottom: 75px;
+	background-repeat: no-repeat;
+}
+header {
+	background-color: white;
+}
+header img {
+	height: 70px;
+}
+header p{
+	margin-top: 25px;
+	color: #ACACAC;
+	font-size: 15px;
+}
+header button {	 
+	margin-top: 10px;
+	background-color: white;
+	border: 1px solid #ACACAC;
+	color: #ACACAC;
+	height: 40px;
+	text-align: left;
+	font-size: 13px;
+}
+.fa-search {
+	margin-left: 100px;
+}
+.texto_fondo {
+	color: white;
+}
+.texto_fondo h1 {
+	font-size: 30px;
+	margin: 20px 0px;
+} 
+.texto_fondo p{
+    margin: 10px 0px;
+}
+.verde {
+    border: 2px solid #62BB5A;
+    color: #62BB5A;
+    background-color: #373737;
+    height: 40px;
+    width: 60px;
+    border-radius: 5px;
+    margin-top: 15px;
+    font-size: 12px;
+}
+.amna {
+	border-radius: 5px;
+	width: 160px;
+	height: 45px;
+	color: white;
+	margin: 15px 0px;
+	display: block;
+	font-size: 15px;
+}
+.amarillo {     
+    background-color: #CDA539; 
+    border: 1px solid #CDA539; 
+}
+.naranjo {	
+    background-color: #9F6829;    
+    border: 1px solid #9F6829;   
+}
+.yellow {
+	background-color: #FFD92F;
+	padding: 40px 0px;
+}
+.yellow img {
+	height: 200px;
+}
+.seis h2,p {
+    color: #ACACAC;
+}
+.seis button {
+	border-radius: 5px;
+	width: 200px;
+	height: 75px;
+	color: white;
+	font-size: 15px;
+	background-color: #9F6829;    
+    border: 1px solid #9F6829;
+}
+.seis h1,h2,h4,button {
+    margin: 20px 0px;
+}
+.seis .p {
+	margin: 25px 0px;
+}
+.seis h4 {
+	color: #9F6829;   
+}
+.more h2 {
+	margin-top: 40px;
+	margin-bottom: 75px;
+	color: #FFD92F;
+	text-align: center;
+}
+.more img {
+	height: 270px;
+	margin-bottom: 40px;
+}
+footer {
+	background-color: #D5D5D5;
+	padding-top: 40px;
+}
+footer .plomo {
+	padding-bottom: 40px;
+}
+
+
+
+
+
+hr {
+	border: 1.5px solid #ACACAC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
